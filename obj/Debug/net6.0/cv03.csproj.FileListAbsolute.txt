@@ -1,0 +1,15 @@
+C:\Users\radka\source\repos\cv03\cv03\bin\Debug\net6.0\cv03.exe
+C:\Users\radka\source\repos\cv03\cv03\bin\Debug\net6.0\cv03.deps.json
+C:\Users\radka\source\repos\cv03\cv03\bin\Debug\net6.0\cv03.runtimeconfig.json
+C:\Users\radka\source\repos\cv03\cv03\bin\Debug\net6.0\cv03.dll
+C:\Users\radka\source\repos\cv03\cv03\bin\Debug\net6.0\ref\cv03.dll
+C:\Users\radka\source\repos\cv03\cv03\bin\Debug\net6.0\cv03.pdb
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\cv03.csproj.AssemblyReference.cache
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\cv03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\cv03.AssemblyInfoInputs.cache
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\cv03.AssemblyInfo.cs
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\cv03.csproj.CoreCompileInputs.cache
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\cv03.dll
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\ref\cv03.dll
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\cv03.pdb
+C:\Users\radka\source\repos\cv03\cv03\obj\Debug\net6.0\cv03.genruntimeconfig.cache
